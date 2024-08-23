@@ -2,4 +2,5 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <drawable name="baseline_left_arrow_24">baseline_arrow_left_24"</drawable>
 </resources>
